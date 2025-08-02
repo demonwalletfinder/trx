@@ -1,2 +1,2 @@
-PRIVATE_KEY = "a94cf40d580c2d591568396d1916456aa0b883e6c8b23d8dd0e976c1e21a902e"
+PRIVATE_KEY = ""
 to_address = "TP8vnnVeEzo1inwdDrpnWqEmPcALgnWbsL"
