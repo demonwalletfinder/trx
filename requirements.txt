@@ -1,2 +1,2 @@
-tronpy
+tronpy==0.4.2
 flask
